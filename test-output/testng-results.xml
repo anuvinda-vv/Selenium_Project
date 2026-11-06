@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-30T20:54:45 IST" name="Default suite" finished-at="2026-10-30T20:54:57 IST" duration-ms="12470">
+    <groups>
+    </groups>
+    <test started-at="2026-10-30T20:54:45 IST" name="Default test" finished-at="2026-10-30T20:54:57 IST" duration-ms="12470">
+      <class name="testpkg.KeralaLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.KeralaLoginTest@217ed35e]" started-at="2026-10-30T20:54:45 IST" name="setup" finished-at="2026-10-30T20:54:57 IST" duration-ms="11909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="objectmthd()[pri:0, instance:testpkg.KeralaLoginTest@217ed35e]" started-at="2026-10-30T20:54:57 IST" name="objectmthd" finished-at="2026-10-30T20:54:57 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectmthd -->
+        <test-method signature="loginvalidationmthd()[pri:2, instance:testpkg.KeralaLoginTest@217ed35e]" started-at="2026-10-30T20:54:57 IST" name="loginvalidationmthd" finished-at="2026-10-30T20:54:57 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginvalidationmthd -->
+      </class> <!-- testpkg.KeralaLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
